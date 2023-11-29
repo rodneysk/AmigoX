@@ -12,6 +12,6 @@ Detalhamento do projeto:
 - Tenho uma função responsável por realizar o sorteio, levando em consideração que nenhum participante pode tirar ele mesmo e ninguém pode ser sorteado mais do que uma vez;
 - O arquivo gerado é salvo no diretório do seu projeto \bin\debug\net6.0\ResultadoAmigoSecreto.txt;
 
-  Upgrade:
-  - Na próxima versão vou aplicar algo mais visual como num form ou web;
-  - Tentarei utilizar a API do WhatsApp Business para o envio do sorteio ser direto para os participantes;
+Upgrade:
+- Na próxima versão vou aplicar algo mais visual como num form ou web;
+- Tentarei utilizar a API do WhatsApp Business para o envio do sorteio ser direto para os participantes;
